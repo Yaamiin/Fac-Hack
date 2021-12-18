@@ -20,9 +20,9 @@
 
 [×͜×] git clone https://github.com/Yaamiin/Fac-Hack
 
-[×͜×] cd
+[×͜×] cd Fac-Hack
 
-[×͜×] python2
+[×͜×] python2 file-crack.py
 
 ## Password
     User.....: Abdisamad1
